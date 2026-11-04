@@ -1,2 +1,9 @@
-# Autonomous-AI-Research-Agent-
-An autonomous AI research agent built with LangChain and OpenAI that dynamically gathers, parses, and synthesizes academic literature from arXiv using a concurrent Map-Reduce architecture. Features a production-ready Streamlit interface dashboard for full user control and interactive analysis.
+# Autonomous AI Research Agent
+
+An autonomous AI workflow that searches academic literature via the arXiv API, parses paper PDFs, and uses LangChain with an LLM to generate highly structured summaries.
+
+## Project Structure
+- `project.py`: End-to-end workflow documentation, testing, and implementation. Streamlit-based web       application dashboard.
+- `requirements.txt`: Python package dependencies.
+- `report.pdf`: Comprehensive project report.
+
